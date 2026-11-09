@@ -26,5 +26,5 @@ foreach($ducks as $duck){
 		$duck->swim();
 	}
 	echo "\n";
-
 }
+
